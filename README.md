@@ -1,1 +1,1 @@
-# Here's a bunch of graphic windows tests coded in Java. 
+# Here's some graphic windows tests i just did coding in Java. 
